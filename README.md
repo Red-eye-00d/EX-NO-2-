@@ -37,7 +37,7 @@ STEP-5: Display the obtained cipher text.
 
 
 ### program:
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
